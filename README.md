@@ -1,6 +1,9 @@
 # Party Maker 🎉
 A Python Script for making groups inside partys using K-means clustering!
 
+## Requeriments 🛑
+You will need `sklearn` and `mathplotlib` for running this code.
+
 ## How to use ℹ️
 Everything that you need is in `main.py`:
 1. You need to change `file_path` to refer to you CSV file
