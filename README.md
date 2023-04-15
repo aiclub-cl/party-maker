@@ -1,7 +1,7 @@
 # Party Maker 🎉
 A Python Script for making groups inside partys using K-means clustering!
 
-## Requeriments 🛑
+## Requirements 🛑
 You will need `sklearn` and `mathplotlib` for running this code.
 
 ## How to use ℹ️
